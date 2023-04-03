@@ -16,7 +16,7 @@
 - [설명 링크](https://nhh2907.github.io/posts/Collaborative_Filtering_Model/)
 
 # 평가 지표
-[설명 링크](https://www.notion.so/nogari/301e9f1659104ae6aa3a6802c46114aa?pvs=4)
+- [설명 링크](https://www.notion.so/nogari/301e9f1659104ae6aa3a6802c46114aa?pvs=4)
 
 # Reference
 - [유플러스 - AI Ground(아이들나라 콘텐츠 추천 AI)](https://github.com/UpstageAI/2022-lguplus-AI-Ground) 
