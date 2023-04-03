@@ -3,7 +3,7 @@
 
 [Private Ranking 38등](https://stages.ai/competitions/208/leaderboard)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/13ca27c6-e8e6-49e1-9990-a4c4b998834c/Untitled.png)
+![ranking_learderboard](/Users/hyunhonoh/MyDeveloper/rec/img/Ranking_Learderboard_38.png)
 
 # 사용 모델
 ### Neural Collaborative Filtering : MF + MLP
