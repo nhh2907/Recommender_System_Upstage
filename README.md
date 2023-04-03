@@ -1,4 +1,6 @@
 # LGU+ 아이들나라 추천시스템 - Upstage
+본 프로젝트는 코드 보안으로 코드는 비공개 되었습니다
+
 # 성과
 
 [Private Ranking 38등](https://stages.ai/competitions/208/leaderboard)
